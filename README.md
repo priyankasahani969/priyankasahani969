@@ -1,11 +1,35 @@
-Hello, I’m Priyanka Sahani
+Hello, I'm Priyanka Sahani
 
-Frontend Developer transitioning into MERN Stack Development
+Python Backend Developer | Django | REST APIs
 
-Technical Skills: HTML, CSS, JavaScript, React.js, Tailwind CSS.
+I’m a B.Tech IT graduate focused on building scalable and production-ready backend applications using Python and Django.
 
-Currently Learning: Node.js, Express.js, MongoDB, REST APIs, JWT Authentication
+Technical Skills
 
-Goal: To build scalable, production-ready full-stack applications and grow as a professional MERN Stack Developer
+- Languages: Python, JavaScript, SQL
+- Backend: Django, Django REST Framework, REST APIs
+- Database: MySQL, SQL
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- Tools: Git, GitHub, VS Code
+- Concepts: CRUD, Authentication, JWT, ORM, API Integration
+
+Current Focus
+
+Currently strengthening my skills in:
+- Advanced Django & Django REST Framework
+- Backend Development & API Design
+- SQL & Database Optimization
+- Generative AI / RAG / AI Backend Development
+
+Projects
+
+- HireHub – Django-based Job Portal
+- E-commerce Application – React + Backend APIs
+- Weather Forecast Application – React + REST API
+- Portfolio Website – React + Tailwind CSS
+
+Goal
+
+To build reliable, scalable backend systems and grow as a Python Backend Developer with AI/GenAI capabilities.
 
 
